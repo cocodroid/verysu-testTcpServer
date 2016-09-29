@@ -2,7 +2,12 @@ package com.verysu.test;
 
 import java.net.ServerSocket;
 import java.net.Socket;
-
+/**
+ * TCP服务
+ * @author sujunguang
+ * 2016年9月29日
+ * 下午9:05:45
+ */
 public class Server {
 
 	/**
